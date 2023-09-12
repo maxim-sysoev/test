@@ -1,0 +1,4 @@
+/Users/arefimenko/dev/personal/test/dart_plugin/panTompkins/CMakeFiles/panTompkins.dir
+/Users/arefimenko/dev/personal/test/dart_plugin/panTompkins/CMakeFiles/panTompkins_test.dir
+/Users/arefimenko/dev/personal/test/dart_plugin/panTompkins/CMakeFiles/edit_cache.dir
+/Users/arefimenko/dev/personal/test/dart_plugin/panTompkins/CMakeFiles/rebuild_cache.dir

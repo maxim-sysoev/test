@@ -1,0 +1,5 @@
+output: lib/pan_tompkins.dart
+name: PanTompkinsBindings
+headers:
+  entry-points:
+    - "panTompkins/panTompkins.h"
