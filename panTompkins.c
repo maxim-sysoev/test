@@ -617,3 +617,10 @@ void panTompkins()
 	fclose(fin);
 	fclose(fout);
 }
+
+int main() {
+	init("examples/test_input.txt", "examples/test_output.txt");
+	panTompkins();
+
+	return 0;
+}
